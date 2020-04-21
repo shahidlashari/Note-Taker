@@ -43,5 +43,5 @@ https://shahidlashari.github.io/HW11/
 
 * This activity was a bit difficult because saving the data to db.json file. I started my pseudo-code to work with. I went through lecture videos and also looking through a couple of examples online in order to understand jQuery code and day,date and time functions.
 
-![image](assets/images/notetaker.gif)
+![image](public/assets/images/notetaker.gif)
 
