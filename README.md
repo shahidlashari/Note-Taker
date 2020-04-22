@@ -1,9 +1,11 @@
 # Note Taker
 
-**URL**
+**Github URL**
 https://github.com/shahidlashari/HW11
 
-https://shahidlashari.github.io/HW11/
+**Heroku URL** 
+
+https://protected-island-13503.herokuapp.com/
 
 
 ## Description
